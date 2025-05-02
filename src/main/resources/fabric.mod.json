@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "portalbound",
+	"version": "${version}",
+	"name": "Portalbound",
+	"description": "Portalbound ALPHA",
+	"authors": [
+		"larsn"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/portalbound/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.larsn.portalbound.Portalbound"
+		],
+		"fabric-datagen": [
+			"net.larsn.portalbound.PortalboundDataGenerator"
+		],
+		"client": [
+			"net.larsn.portalbound.PortalboundClient"
+		]
+	},
+	"mixins": [
+		"portalbound.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
