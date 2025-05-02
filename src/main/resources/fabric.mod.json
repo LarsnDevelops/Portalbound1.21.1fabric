@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/LarsnDevelops/Portalbound1.21.1fabric"
 	},
 	"license": "MIT",
 	"icon": "assets/portalbound/icon.png",
