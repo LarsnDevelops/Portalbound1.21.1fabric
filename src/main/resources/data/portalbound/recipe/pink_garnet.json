@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "portalbound:pink_garnet_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "portalbound:pink_garnet"
+  }
+}

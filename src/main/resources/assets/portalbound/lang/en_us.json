@@ -1,0 +1,12 @@
+{
+  "item.portalbound.pink_garnet": "Pink Garnet",
+  "item.portalbound.raw_pink_garnet": "Raw Pink Garnet",
+
+  "block.portalbound.pink_garnet_block": "Pink Garnet Block",
+  "block.portalbound.raw_pink_garnet_block": "Block of Raw Pink Garnet",
+
+  "block.portalbound.pink_garnet_ore": "Pink Garnet Ore",
+  "block.portalbound.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
+
+  "itemgroup.portalbound.portalbound_items": "Portalbound Items"
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "portalbound:pink_garnet_deepslate_ore",
+    "portalbound:pink_garnet_ore",
+    "portalbound:pink_garnet_block",
+    "portalbound:raw_pink_garnet_block"
+  ]
+}
